@@ -13,7 +13,6 @@ A function that takes a student's marks (0-100) as input and returns the correct
 - Below 40: E
 
 **Example:**
-```javascript
 const grade = studentGrade(75);
 console.log(grade); // Output: B
 
