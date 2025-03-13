@@ -17,7 +17,8 @@ A function that takes a student's marks (0-100) as input and returns the correct
 const grade = studentGrade(75);
 console.log(grade); // Output: B
 
-#Challenge 2: Speed Detector
+
+## Challenge 2: Speed Detector
 
 Description
 
@@ -29,12 +30,12 @@ For every 5 km/h above 70, the driver receives one demerit point.
 
 If the driver gets more than 12 points, print "License suspended".
 
-Example Usage:
+**Example:**
 
 console.log(speedDetector(80)); // Output: 'Points: 2'
 
 
-Challenge 3: Net Salary Calculator
+## Challenge 3: Net Salary Calculator
 
 Description
 
@@ -54,6 +55,6 @@ Gross Salary Calculation
 
 Net Salary Calculation
 
-Example Usage:
+**Example:**
 console.log(speedDetector(80)); // Output: 'Points: 2'
 
